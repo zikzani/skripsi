@@ -1,0 +1,13 @@
+name: final1
+title: final1
+username:
+account: skripsizikzani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1603630
+bundleId: 2672054
+url: https://skripsizikzani.shinyapps.io/final1/
+when: 1576510934.9823
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|kunjungan.Rdata

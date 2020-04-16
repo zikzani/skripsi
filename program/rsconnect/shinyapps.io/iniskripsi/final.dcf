@@ -1,0 +1,12 @@
+name: final
+title: final
+username:
+account: iniskripsi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1420059
+bundleId: 2672006
+url: https://iniskripsi.shinyapps.io/final/
+when: 1576509606.04948
+asMultiple: FALSE
+asStatic: FALSE
